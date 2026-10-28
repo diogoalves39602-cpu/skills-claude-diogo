@@ -1,0 +1,100 @@
+{
+ "gato_surpreso": {
+  "usar_quando": "susto, 'que bicho estranho', 'como assim?', reação a algo bizarro",
+  "arquivo_original": "\"Hidden Cat Surprised\" (26346585262).jpg",
+  "autor": "Lihoman...",
+  "licenca": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:\"Hidden_Cat_Surprised\"_(26346585262).jpg"
+ },
+ "bebe_espantado": {
+  "usar_quando": "'imagina a cara dele', choque, 'caralho!', descoberta; extra engraçado se a fala falar de juventude",
+  "arquivo_original": "Kinda Surprised (2417839929).jpg",
+  "autor": "Helgi Halldórsson from Reykjavík, Iceland",
+  "licenca": "CC BY-SA 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Kinda_Surprised_(2417839929).jpg"
+ },
+ "boneco_dando_de_ombros": {
+  "usar_quando": "'foda-se', 'tanto faz', 'sei lá', desistir, não ligar",
+  "arquivo_original": "0464-vector-orange-man-confused.jpg",
+  "autor": "LeoBlanchette",
+  "licenca": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:0464-vector-orange-man-confused.jpg"
+ },
+ "bebe_rindo": {
+  "usar_quando": "'volta a ser bebê', renascer, rejuvenescer, felicidade boba",
+  "arquivo_original": "Innocent baby laughing.jpg",
+  "autor": "D. Sharon Pruitt from Hill Air Force Base, Utah, USA",
+  "licenca": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Innocent_baby_laughing.jpg"
+ },
+ "idoso_sorrindo": {
+  "usar_quando": "velhice, 'não morre de velho', experiência, tempo passando",
+  "arquivo_original": "Karen Elder (Unsplash).jpg",
+  "autor": "Capturing the human heart. zjtcpts",
+  "licenca": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Karen_Elder_(Unsplash).jpg"
+ },
+ "cachorro_oculos_escuros": {
+  "usar_quando": "'malandro', 'esperto', 'de boa', 'na maior tranquilidade', se achando",
+  "arquivo_original": "Dog With Sunglasses (5048853247).jpg",
+  "autor": "emilydickinsonridesabmx from Fort Hamilton Brooklyn, New Yor",
+  "licenca": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Dog_With_Sunglasses_(5048853247).jpg"
+ },
+ "sanduiche": {
+  "usar_quando": "'vira lanche', 'já era', ser comido, fome",
+  "arquivo_original": "Peanut-Butter-Jelly-Sandwich.jpg",
+  "autor": "Evan-Amos",
+  "licenca": "Public domain",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.jpg"
+ },
+ "peixe_boca_aberta": {
+  "usar_quando": "predador, fome, 'se aparecer um peixe', ameaça cômica",
+  "arquivo_original": "Big open mouth round goby.jpg",
+  "autor": "Peter van der Sluijs",
+  "licenca": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Big_open_mouth_round_goby.jpg"
+ },
+ "mao_dedo_closeup": {
+  "usar_quando": "comparação de tamanho com a mão, 'menor que sua unha'",
+  "arquivo_original": "Opposable thumbs - Flickr - LRD615.jpg",
+  "autor": "LRD615",
+  "licenca": "CC BY-SA 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Opposable_thumbs_-_Flickr_-_LRD615.jpg"
+ },
+ "cerebro_ilustracao": {
+  "usar_quando": "'nem tem cérebro', burrice, pensar",
+  "arquivo_original": "Brain Lateral (NIH BioArt 60).png",
+  "autor": "Courtesy of NIAID  Ryan Kissinger",
+  "licenca": "Public domain",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Brain_Lateral_(NIH_BioArt_60).png"
+ },
+ "coracao_modelo": {
+  "usar_quando": "'sem coração', amor, anatomia",
+  "arquivo_original": "Dresden, Deutsches Hygiene-Museum, anatomisches Modell, Herz.jpg",
+  "autor": "Dguendel",
+  "licenca": "CC BY 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Dresden,_Deutsches_Hygiene-Museum,_anatomisches_Modell,_Herz.jpg"
+ },
+ "estudante_anos80": {
+  "usar_quando": "estudante, descoberta, anos 80, pesquisa",
+  "arquivo_original": "Student, 1980s (25709733803).jpg",
+  "autor": "University of Michigan School for Environment and Sustainabi",
+  "licenca": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Student,_1980s_(25709733803).jpg"
+ },
+ "carro_fiat_panda_1988": {
+  "usar_quando": "anos 80, Itália, nostalgia",
+  "arquivo_original": "1988 Fiat Panda 1000 Super 2.jpg",
+  "autor": "Calreyn88",
+  "licenca": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:1988_Fiat_Panda_1000_Super_2.jpg"
+ },
+ "cientistas_laboratorio": {
+  "usar_quando": "'cientistas descobriram', pesquisa, laboratório",
+  "arquivo_original": "A group of scientists working in a laboratory Esculab.jpg",
+  "autor": "Esculab",
+  "licenca": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:A_group_of_scientists_working_in_a_laboratory_Esculab.jpg"
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "imagens": "imgs",
+ "voz_sintetica": "pt-BR-AntonioNeural",
+ "velocidade": "+22%",
+ "cenas": [
+  {
+   "imagem": "00",
+   "texto": "Esse bichinho aqui é menor que a porra da sua unha... e ele simplesmente não morre de velhice.",
+   "etiqueta": "ESSE BICHO É IMORTAL"
+  },
+  {
+   "imagem": "d_tight",
+   "texto": "Sério! Essa é a Turritopsis dohrnii, a famosa água-viva imortal.",
+   "etiqueta": "TURRITOPSIS DOHRNII"
+  },
+  {
+   "imagem": "d_mid",
+   "texto": "Quando ela fica velha, machucada, ou passando fome, ela não morre não. Ela pensa: foda-se... e volta a ser bebê.",
+   "etiqueta": "#1 ELA VOLTA A SER BEBÊ"
+  },
+  {
+   "imagem": "brooks",
+   "texto": "O corpo dela encolhe, vira uma bolinha, e se transforma de novo num pólipo, que é a fase jovem dela.",
+   "etiqueta": "#1 ELA VOLTA A SER BEBÊ"
+  },
+  {
+   "imagem": "04",
+   "texto": "É tipo uma borboleta virar lagarta de novo! E ela faz isso de novo, e de novo, e de novo.",
+   "etiqueta": "#1 ELA VOLTA A SER BEBÊ"
+  },
+  {
+   "imagem": "d_xtight",
+   "texto": "E olha que ela nem tem cérebro, nem coração. Dá até pra ver o estômago dela através do corpo. Que bicho estranho da porra.",
+   "etiqueta": "#2 SEM CÉREBRO, SEM CORAÇÃO"
+  },
+  {
+   "imagem": "06",
+   "texto": "Quem percebeu isso foi um estudante, no fim dos anos oitenta, na Itália. Imagina a cara dele: caralho, ela rejuvenesceu!",
+   "etiqueta": "#3 DESCOBERTA POR ACASO"
+  },
+  {
+   "imagem": "07",
+   "texto": "Em 2022, cientistas mapearam o DNA dela, e acharam genes extras que ajudam a consertar o DNA e proteger as células.",
+   "etiqueta": "#4 DNA TURBINADO"
+  },
+  {
+   "imagem": "d_port2",
+   "texto": "Mas calma, ela não é invencível não. Se aparecer um peixe com fome, já era. Vira lanche.",
+   "etiqueta": "#5 MAS NÃO É INVENCÍVEL"
+  },
+  {
+   "imagem": "09",
+   "texto": "Ela veio do Mar Mediterrâneo, mas hoje tá no mundo inteiro, pegando carona de graça na água dos navios. Malandra demais.",
+   "etiqueta": "#6 ESTÁ NO MUNDO TODO"
+  },
+  {
+   "imagem": "d_mid2",
+   "texto": "E aí, se você pudesse voltar a ser jovem quantas vezes quisesse, você voltaria? Comenta aí e se inscreve!",
+   "etiqueta": "E VOCÊ?"
+  }
+ ],
+ "tomadas": {
+  "0": [
+   [
+    "00",
+    null
+   ],
+   [
+    "unha",
+    "menor"
+   ],
+   [
+    "velho",
+    "simplesmente"
+   ]
+  ],
+  "2": [
+   [
+    "d_mid",
+    null
+   ],
+   [
+    "estranho",
+    "pensa"
+   ],
+   [
+    "bebe",
+    "volta"
+   ]
+  ],
+  "4": [
+   [
+    "borboleta",
+    null
+   ],
+   [
+    "04",
+    "lagarta"
+   ],
+   [
+    "00",
+    "faz"
+   ]
+  ],
+  "5": [
+   [
+    "cerebro",
+    null
+   ],
+   [
+    "coracao",
+    "coração"
+   ],
+   [
+    "d_xtight",
+    "Dá"
+   ],
+   [
+    "gato",
+    "Que"
+   ]
+  ],
+  "6": [
+   [
+    "estudante",
+    null
+   ],
+   [
+    "panda80",
+    "fim"
+   ],
+   [
+    "rapallo",
+    "Itália"
+   ],
+   [
+    "surpreso",
+    "Imagina"
+   ]
+  ],
+  "7": [
+   [
+    "cientistas",
+    null
+   ],
+   [
+    "07",
+    "DNA"
+   ]
+  ],
+  "8": [
+   [
+    "d_port2",
+    null
+   ],
+   [
+    "peixe",
+    "Se"
+   ],
+   [
+    "lanche",
+    "Vira"
+   ]
+  ],
+  "9": [
+   [
+    "mediterraneo",
+    null
+   ],
+   [
+    "09",
+    "pegando"
+   ],
+   [
+    "cachorro",
+    "Malandra"
+   ]
+  ]
+ },
+ "foco": {
+  "estudante": [
+   0.08,
+   0.45
+  ],
+  "estranho": [
+   0.5,
+   0.35
+  ],
+  "peixe": [
+   0.55,
+   0.5
+  ],
+  "cachorro": [
+   0.6,
+   0.4
+  ]
+ }
+}
